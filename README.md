@@ -6,5 +6,5 @@ This project provides the necessary API to perfor different operation on package
 ## DeliveryManager.Core
 Provides the necessary interfaces and domain level logic, like bar code generation
 
-##DeliveryManager.Infrastructure
+## DeliveryManager.Infrastructure
 Provides a way to store the data in InMemory database and provides implementation of the different repositories
